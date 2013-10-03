@@ -5,8 +5,6 @@
  * @author Tim Lytle <tim@timlytle.net>
  */
 
-require_once __DIR__ . '/../local.php';
-
 require_once __DIR__ . '/../bootstrap.php'; //credentials and such
 
 //some common setup
